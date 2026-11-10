@@ -2,19 +2,19 @@
 
 Modulo 14
 
-1 # Sistema de Inventario
+# Sistema de Inventario
 
-2 Proyecto académico desarrollado para aprender GitHub.
+Proyecto académico desarrollado para aprender GitHub.
 
-4 ## Tecnologías
+## Tecnologías
 
-6 Python
+Python
 
-8 - Git
+- Git
 
-9 - GitHub
+- GitHub
 
-10 ## Autor
+## Autor
 
-12 Paola Andrea Gutierrez
+Paola Andrea Gutierrez
 
